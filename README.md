@@ -44,8 +44,8 @@ This project demonstrates an AI-driven tool to generate optimal furniture layout
 ## Example Visualization
 Here is an example of an AI-generated furniture layout:
 
-![Example Plot](images/example_plot.png)
-
+![Example Plot](images/example.png)
+![Example Plot](images/example2.png)
 ## Requirements
 - Python 3.x
 - TensorFlow
